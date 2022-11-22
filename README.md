@@ -1,6 +1,4 @@
-# Turborepo Tailwind CSS starter
-
-This is an official starter Turborepo.
+# Turborepo Next Tailwind CSS starter
 
 ## What's inside?
 
@@ -47,8 +45,11 @@ This Turborepo has some additional tools already setup for you:
 Run the following command:
 
 ```sh
-npx degit vercel/turbo/examples/with-tailwind with-tailwind
-cd with-tailwind
-yarn install
+
+git clone git@github.com:jamal7x7/terborepo-next-tailwind.git
+
+pnpm install
+
 git init . && git add . && git commit -m "Init"
+
 ```
